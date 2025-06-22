@@ -2,10 +2,10 @@
   "name": "sktorrent-realdebrid-only-addon",
   "version": "3.0.0",
   "description": "SKTorrent addon pouze s Real-Debrid podporou a webovou konfigurací",
-  "main": "sktorrent-rd-addon.js",
+  "main": "sktorrent-addon.js",
   "scripts": {
-    "start": "node sktorrent-rd-addon.js",
-    "dev": "nodemon sktorrent-rd-addon.js"
+    "start": "node sktorrent-addon.js",
+    "dev": "nodemon sktorrent-addon.js"
   },
   "keywords": ["stremio", "addon", "real-debrid", "sktorrent"],
   "author": "",
